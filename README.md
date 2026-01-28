@@ -1,23 +1,22 @@
 # Spam-Message-Detector-using-Machine-Learning
 
--> Spam messages are unwanted messages that usually contain fake offers, lottery prizes, or scam alerts. 
--> This project uses Machine Learning to automatically classify messages as Spam or Not Spam.  
--> The model learns patterns from previously labeled messages and predicts the category of new messages entered by the user.
+Spam messages are unwanted messages that usually contain fake offers, lottery prizes, or scam alerts. This project uses Machine Learning to automatically classify messages as Spam or Not Spam.  
+ The model learns patterns from previously labeled messages and predicts the category of new messages entered by the user.
 
 🎯 Objectives:
 
--> To understand how machine learning works on text data
--> To build a spam detection system using Python
--> To classify SMS messages into spam and not spam
--> To demonstrate real-life applications of machine learning
+1)To understand how machine learning works on text data
+2) To build a spam detection system using Python
+3)To classify SMS messages into spam and not spam
+4) To demonstrate real-life applications of machine learning
 
 
 🧠 Technologies Used:
 
--> Python
--> Machine Learning
--> VS Code
--> Libraries: Pandas ,Scikit-learn
+ Python
+ Machine Learning
+VS Code
+Libraries: Pandas ,Scikit-learn
 
 
 📂 Project Structure
